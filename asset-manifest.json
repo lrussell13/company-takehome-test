@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/company-take-home/static/css/main.3325f033.css",
-    "main.js": "/company-take-home/static/js/main.7f213ff1.js",
-    "index.html": "/company-take-home/index.html",
-    "main.3325f033.css.map": "/company-take-home/static/css/main.3325f033.css.map",
-    "main.7f213ff1.js.map": "/company-take-home/static/js/main.7f213ff1.js.map"
+    "main.css": "/company-takehome-test/static/css/main.3325f033.css",
+    "main.js": "/company-takehome-test/static/js/main.7f213ff1.js",
+    "index.html": "/company-takehome-test/index.html",
+    "main.3325f033.css.map": "/company-takehome-test/static/css/main.3325f033.css.map",
+    "main.7f213ff1.js.map": "/company-takehome-test/static/js/main.7f213ff1.js.map"
   },
   "entrypoints": [
     "static/css/main.3325f033.css",
