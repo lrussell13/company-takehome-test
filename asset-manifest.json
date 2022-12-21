@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/company-takehome-test/static/css/main.3325f033.css",
-    "main.js": "/company-takehome-test/static/js/main.e33dd3c5.js",
+    "main.js": "/company-takehome-test/static/js/main.03d36579.js",
     "index.html": "/company-takehome-test/index.html",
     "main.3325f033.css.map": "/company-takehome-test/static/css/main.3325f033.css.map",
-    "main.e33dd3c5.js.map": "/company-takehome-test/static/js/main.e33dd3c5.js.map"
+    "main.03d36579.js.map": "/company-takehome-test/static/js/main.03d36579.js.map"
   },
   "entrypoints": [
     "static/css/main.3325f033.css",
-    "static/js/main.e33dd3c5.js"
+    "static/js/main.03d36579.js"
   ]
 }
